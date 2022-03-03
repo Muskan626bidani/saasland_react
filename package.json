@@ -2,7 +2,6 @@
   "name": "saasland",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://muskan626bidani.github.io/saasland_react/",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
@@ -68,6 +67,6 @@
   "bugs": {
     "url": "https://github.com/Muskan626bidani/saasland/issues"
   },
-  "homepage": "https://github.com/Muskan626bidani/saasland#readme",
+  "homepage": "https://muskan626bidani.github.io/saasland_react/",
   "description": ""
 }
